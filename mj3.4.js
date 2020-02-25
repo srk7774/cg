@@ -17,10 +17,13 @@ window.MathJax = {
 };
 
 // Dynamic DOM insertion of a deferred script (script4.js)
-            script4 = document.createElement('script');
-            script4.setAttribute('defer', 'defer');
-            script4.setAttribute('src', 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js');
-            head.appendChild(script4);
+(function () {
+  var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.setAttribute('defer', 'defer');
+  script.src  = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js";
+  document.getElementsByTagName("head")[0].appendChild(script);
+})();
 //addtoany
 (function() { var aa = document.createElement('script'); aa.type = 'text/javascript'; aa.async = false; aa.src = 'https://static.addtoany.com/menu/page.js'; var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(aa, b); })();
 

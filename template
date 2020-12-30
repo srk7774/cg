@@ -1,0 +1,135 @@
+<div dir="ltr" style="text-align: left;" trbidi="on"><ul class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.campusgate.in"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.campusgate.in/p/arithmetic_29.html"><span itemprop="name">Aptitude</span></a><meta itemprop="position" content="2" /></li>
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.campusgate.in/2019/11/permutations-combinations-1-1.html"><span itemprop="name">Permutations and Combinations</span></a><meta itemprop="position" content="3" /></li>
+<li>Exercise</li>
+</ul><div class="rk-vertical-menu">
+<a href="https://www.campusgate.in/2019/12/permutations-combinations-formulas.html">Permutations and Combinations: Formulas</a>
+<a class="active" href="https://www.campusgate.in/2019/11/permutations-combinations-1-1.html" >Permutations and Combinations: Exercise - 1</a>
+<a href="https://www.campusgate.in/2011/11/permutations.html" >Permutations and Combinations: Exercise - 2</a></div><br />
+<br />
+<span class="q-box">1</span>$5! = $<br />
+<span class="step">A</span>24<br />
+<span class="step">B</span>120<br />
+<span class="step">C</span>720<br />
+<span class="step">D</span>140<br />
+<div class="border" id="spoiler1" style="display: none;">Answer: B<br />
+<div class="border1" id="spoiler1A" style="display: none;">Explanation:<br />
+$5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler1A') .style.display=='none') {document.getElementById('spoiler1A') .style.display=''}else{document.getElementById('spoiler1A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler1') .style.display=='none') {document.getElementById('spoiler1') .style.display=''}else{document.getElementById('spoiler1') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">2</span>${}^6{C_2} = $<br />
+<span class="step">A</span>15<br />
+<span class="step">B</span>30<br />
+<span class="step">C</span>12<br />
+<span class="step">D</span>48<br />
+<div class="border" id="spoiler2" style="display: none;">Answer: A<br />
+<div class="border1" id="spoiler2A" style="display: none;">Explanation:<br />
+${}^6{C_2} = \dfrac{{6 \times 5}}{{2!}} = \dfrac{{6 \times 5}}{{2 \times 1}} = 15$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler2A') .style.display=='none') {document.getElementById('spoiler2A') .style.display=''}else{document.getElementById('spoiler2A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler2') .style.display=='none') {document.getElementById('spoiler2') .style.display=''}else{document.getElementById('spoiler2') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">3</span>If ${}^n{C_3} = 35$, then $n!=?$<br />
+<span class="step">A</span>24<br />
+<span class="step">B</span>120<br />
+<span class="step">C</span>720<br />
+<span class="step">D</span>5040<br />
+<div class="border" id="spoiler3" style="display: none;">Answer: D<br />
+<div class="border1" id="spoiler3A" style="display: none;">Explanation:<br />
+${}^n{C_3} = 35$<br />
+$ \Rightarrow \dfrac{{n\left( {n - 1} \right)\left( {n - 2} \right)}}{{3!}} = 35$<br />
+$ \Rightarrow n\left( {n - 1} \right)\left( {n - 2} \right) = 7 \times 5 \times 3!$<br />
+$ \Rightarrow n\left( {n - 1} \right)\left( {n - 2} \right) = 7 \times 6 \times 5$<br />
+$ \Rightarrow n = 7$<br />
+$\therefore 7! = 5040$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler3A') .style.display=='none') {document.getElementById('spoiler3A') .style.display=''}else{document.getElementById('spoiler3A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler3') .style.display=='none') {document.getElementById('spoiler3') .style.display=''}else{document.getElementById('spoiler3') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">4</span>If $r!=720$ then ${}^8{C_r} = $<br />
+<span class="step">A</span>56<br />
+<span class="step">B</span>48<br />
+<span class="step">C</span>30<br />
+<span class="step">D</span>28<br />
+<div class="border" id="spoiler4" style="display: none;">Answer: D<br />
+<div class="border1" id="spoiler4A" style="display: none;">Explanation:<br />
+$r!=720$ $= 1 \times 2 \times 3 \times 4 \times 5 \times 6$<br />
+$ \Rightarrow r = 6$<br />
+${}^8{C_6} = {}^8{C_2} = \dfrac{{8 \times 7}}{{2!}} = \dfrac{{8 \times 7}}{{2 \times 1}} = 28$<br />
+$\left( {\because {}^n{C_r} = {}^n{C_{n - r}}} \right)$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler4A') .style.display=='none') {document.getElementById('spoiler4A') .style.display=''}else{document.getElementById('spoiler4A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler4') .style.display=='none') {document.getElementById('spoiler4') .style.display=''}else{document.getElementById('spoiler4') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">5</span>${}^8{P_2} = $<br />
+<span class="step">A</span>56<br />
+<span class="step">B</span>28<br />
+<span class="step">C</span>40<br />
+<span class="step">D</span>36<br />
+<div class="border" id="spoiler29" style="display: none;">Answer: A<br />
+<div class="border1" id="spoiler29A" style="display: none;">Explanation:<br />
+${}^8{P_2} = 8 \times 7 = 56$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler29A') .style.display=='none') {document.getElementById('spoiler29A') .style.display=''}else{document.getElementById('spoiler29A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler29') .style.display=='none') {document.getElementById('spoiler29') .style.display=''}else{document.getElementById('spoiler29') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<!-- adsense --><br />
+<span class="q-box">6</span>${}^7{P_4} = $<br />
+<span class="step">A</span>1/3<br />
+<span class="step">B</span>1/4<br />
+<span class="step">C</span>1/2<br />
+<span class="step">D</span>2/3<br />
+<div class="border" id="spoiler30" style="display: none;">Answer: C<br />
+<div class="border1" id="spoiler30A" style="display: none;">Explanation:<br />
+${}^7{P_4} = 7 \times 6 \times 5 \times 4 = 840$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler30A') .style.display=='none') {document.getElementById('spoiler30A') .style.display=''}else{document.getElementById('spoiler30A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler30') .style.display=='none') {document.getElementById('spoiler30') .style.display=''}else{document.getElementById('spoiler30') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">7</span>${}^n{P_r} = $<br />
+<span class="step">A</span>$ \dfrac{{{}^n{C_r}}}{{r!}}$<br />
+<span class="step">B</span>$ {}^n{C_r} \times r!$<br />
+<span class="step">C</span>$ {}^n{C_r} \times n!$<br />
+<span class="step">D</span>$ {}^n{C_r} \times 2n!$<br />
+<div class="border" id="spoiler7" style="display: none;">Answer: B<br />
+<div class="border1" id="spoiler7A" style="display: none;">Explanation:<br />
+${}^n{P_r} = {}^n{C_r} \times r!$<br />
+This is a very important result. Please memorize. <br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler7A') .style.display=='none') {document.getElementById('spoiler7A') .style.display=''}else{document.getElementById('spoiler7A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler7') .style.display=='none') {document.getElementById('spoiler7') .style.display=''}else{document.getElementById('spoiler7') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">8</span>In how many ways can the letters of the word 'LOVER' be arranged?<br />
+<span class="step">A</span>120<br />
+<span class="step">B</span>24<br />
+<span class="step">C</span>60<br />
+<span class="step">D</span>30<br />
+<div class="border" id="spoiler8" style="display: none;">Answer: A<br />
+<div class="border1" id="spoiler8A" style="display: none;">Explanation:<br />
+All letters of the word are distinct in the word $LOVER$. <br />
+$\therefore $ Number of arrangements = $5!$ $= 120$ <br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler8A') .style.display=='none') {document.getElementById('spoiler8A') .style.display=''}else{document.getElementById('spoiler8A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler8') .style.display=='none') {document.getElementById('spoiler8') .style.display=''}else{document.getElementById('spoiler8') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<span class="q-box">9</span>In how many ways can the letters of the word 'BEAUTY' be arranged so that the words always start with $A$?<br />
+<span class="step">A</span>15<br />
+<span class="step">B</span>20<br />
+<span class="step">C</span>60<br />
+<span class="step">D</span>120<br />
+<div class="border" id="spoiler9" style="display: none;">Answer: D<br />
+<div class="border1" id="spoiler9A" style="display: none;">Explanation:<br />
+$BEAUTY$ contains $6$ letters. <br />
+If we fix the first letter $A$ in the first place, <br />
+$\underline A \quad\underline {\phantom{B}} \quad\underline {\phantom{B}} \quad\underline {\phantom{B}}\quad\underline {\phantom{B}} \quad\underline {\phantom{B}} $<br />
+Then number of ways of filling Remaining $5$ letters in $5$ places $= 5! = 120$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler9A') .style.display=='none') {document.getElementById('spoiler9A') .style.display=''}else{document.getElementById('spoiler9A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler9') .style.display=='none') {document.getElementById('spoiler9') .style.display=''}else{document.getElementById('spoiler9') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<!-- adsense --><br />
+<span class="q-box">10</span>In how many ways can the letters of the word 'BEAUTY' be arranged so that the words always start with $A$ and ends with $B$?<br />
+<span class="step">A</span>56<br />
+<span class="step">B</span>48<br />
+<span class="step">C</span>30<br />
+<span class="step">D</span>24<br />
+<div class="border" id="spoiler10" style="display: none;">Answer: D<br />
+<div class="border1" id="spoiler10A" style="display: none;">Explanation:<br />
+$BEAUTY$ contains $6$ letters. <br />
+If we fix the first letter $A$ in the first place and $B$ in the last place, <br />
+$\underline A \quad\underline {\phantom{B}} \quad\underline {\phantom{B}} \quad\underline {\phantom{B}}\quad\underline {\phantom{B}} \quad\underline B $<br />
+Then number of ways of filling Remaining $4$ letters in $4$ places $= 4! = 24$<br />
+<!-- explanation Ends--></div><button onclick="if(document.getElementById('spoiler10A') .style.display=='none') {document.getElementById('spoiler10A') .style.display=''}else{document.getElementById('spoiler10A') .style.display='none'}" title="Click to show/hide content" type="button">Show Explanation</button></div><button onclick="if(document.getElementById('spoiler10') .style.display=='none') {document.getElementById('spoiler10') .style.display=''}else{document.getElementById('spoiler10') .style.display='none'}" title="Click to show/hide content" type="button">Show Answer</button><br />
+<br />
+<div class="rk-pagination">
+<a class="active" href="https://www.campusgate.in/2019/11/permutations-combinations-1-1.html">1</a> 
+<a href="https://www.campusgate.in/2019/11/permutations-combinations-1-2.html">2</a> 
+<a href="https://www.campusgate.in/2019/11/permutations-combinations-1-3.html">3</a>
+<a href="https://www.campusgate.in/2019/11/permutations-combinations-1-4.html">4</a></div><br />
+<div class="rk-vertical-menu"><a href="https://www.campusgate.in/2019/12/permutations-combinations-formulas.html">Permutations and Combinations: Formulas</a>
+<a class="active" href="https://www.campusgate.in/2019/11/permutations-combinations-1-1.html" >Permutations and Combinations: Exercise - 1</a>
+<a href="https://www.campusgate.in/2011/11/permutations.html" >Permutations and Combinations: Exercise - 2</a>
+</div>
+</div>

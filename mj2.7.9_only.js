@@ -12,6 +12,6 @@ messageStyle: "none",
 
 (function() {
     var jax = document.createElement('script'); jax.type = 'text/javascript'; jax.async = true;
-    jax.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS_SVG';
+    jax.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS_SVG';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(jax, s);
   })();

@@ -4,7 +4,7 @@ window.MathJax = {
   },
   svg: {
     matchFontHeight: false,
-    scale: 1.1
+    scale: 0.9
   },
   options: {
     renderActions: {

@@ -6,7 +6,7 @@ window.MathJax = {
 		matchFontHeight: false,
         scale: 110,
 EqnChunk: 20,
-EqnChunkFactor: 1.5,
+EqnChunkFactor: 2.5,
 EqnChunkDelay: 200,
     },
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]},

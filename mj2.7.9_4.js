@@ -1,5 +1,5 @@
 window.MathJax = {
-"fast-preview": {disabled: true},
+"fast-preview": {disabled: false},
   tex2jax: {preview: "none"},
     CommonHTML: {
         styles: {'.mjx-chtml': {padding: '6px 0'}},

@@ -1,5 +1,5 @@
 let myCoolCode = document.createElement("script");
-    myCoolCode.setAttribute("src", "https://cdnjs.cloudflare.com/ajax/libs/cash/8.1.0/cash.min.js");
+    myCoolCode.setAttribute("src", "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js");
     document.body.appendChild(myCoolCode);
 
 (function($){
@@ -11,4 +11,4 @@ let myCoolCode = document.createElement("script");
             }
         });
     }, 300);
-})(cash);
+})(jQuery);

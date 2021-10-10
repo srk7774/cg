@@ -1,3 +1,4 @@
+//<![CDATA[
 var comments = document.getElementsByClassName('comments')[0],
 disqusLoaded = false;
 function loadDisqus() {
@@ -31,8 +32,10 @@ loadDisqus();
 }
 }
 }
+//]]>
 var disqus_url = &quot;<data:blog.canonicalUrl/>&quot;; if (!disqus_url.length) { disqus_url = &quot;<data:blog.url/>&quot;; }
 //image defer
+//<![CDATA[
 function init() {
 var imgDefer = document.getElementsByTagName('img');
 for (var i=0; i<imgDefer.length; i++) {
@@ -40,7 +43,9 @@ if(imgDefer[i].getAttribute('data-src')) {
 imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
 } } }
 window.onload = init;
+//]]>
 //tabcontent
+//<![CDATA[
 function openCity(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
@@ -54,3 +59,4 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+//]]>

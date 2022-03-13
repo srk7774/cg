@@ -26,7 +26,7 @@ loader: {
       MathJax.startup.defaultReady();
     }
   }
-}
+},
   tex: {
     inlineMath: [["$","$"],["\\(","\\)"]]
   },

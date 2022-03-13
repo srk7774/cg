@@ -1,5 +1,8 @@
-MathJax = {
-  loader: {
+window.MathJax = {
+startup: {
+	typeset: false,
+  },
+loader: {
     load: ['ui/lazy']
   },
   startup: {
@@ -16,18 +19,7 @@ MathJax = {
           }
         };
         return handler;
-      }, 100);
-      //
-      // Do the regular startup.
-      //
-      MathJax.startup.defaultReady();
-    }
-  }
-};
-window.MathJax = {
-startup: {
-	typeset: false,
-  },
+      }, 100),
   tex: {
     inlineMath: [["$","$"],["\\(","\\)"]]
   },

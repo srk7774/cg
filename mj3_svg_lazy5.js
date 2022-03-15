@@ -1,7 +1,4 @@
 window.MathJax = {
-startup: {
-	typeset: false,
-  },
 loader: {
     load: ['ui/lazy']
   },
